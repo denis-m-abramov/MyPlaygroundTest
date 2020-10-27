@@ -19,3 +19,5 @@ lastName = "Abramov1"
  2
  3
  */
+
+print(lastName)
